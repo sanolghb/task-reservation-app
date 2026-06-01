@@ -34,7 +34,8 @@ Résultat
 Le repository est connecté à mon ordinateur
 Le premier envoi de code vers GitHub a été réussi
 L’environnement de travail est maintenant prêt pour le développement
-
+jour2:
+les commandes git de base 
 
 
 

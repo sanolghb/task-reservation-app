@@ -1,1 +1,40 @@
-Mon journal de projet 
+1. Création du compte GitHub
+
+J’ai créé un compte sur GitHub pour pouvoir héberger et gérer mon projet en ligne.al de projet 
+2. Création du repository public
+
+J’ai créé un dépôt public nommé task-reservation-app sur GitHub afin de stocker le code du projet.
+3. Installation et configuration de Git
+
+J’ai installé Git sur mon ordinateur et configuré mon identité.
+
+📌 Commandes utilisées dans CMD :
+git config --global user.name "sania"
+git config --global user.email "sanialaghoub@gmail.com"
+
+👉 Ces commandes permettent d’identifier l’auteur des commits.
+4. Clonage du repository
+
+J’ai récupéré le projet GitHub sur mon ordinateur.
+
+📌 Commande utilisée :
+git clone https://github.com/sanolghb/task-reservation-app.git
+Puis :
+
+cd task-reservation-app
+5. Premier commit et push
+
+J’ai ajouté un fichier au projet et envoyé les modifications vers GitHub.
+
+📌 Commandes utilisées :
+git add .
+git commit -m "first commit"
+git push origin main
+Résultat
+Le repository est connecté à mon ordinateur
+Le premier envoi de code vers GitHub a été réussi
+L’environnement de travail est maintenant prêt pour le développement
+
+
+
+
